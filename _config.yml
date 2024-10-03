@@ -1,2 +1,6 @@
 title: Hilde GitHub Page test
 description: This is my test run of GitHub Pages. 
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
